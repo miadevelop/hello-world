@@ -2,3 +2,4 @@ neu
 chang from github
 change from yogabook
 neues aus dem Internet
+Eine Technik gilt als verifiziert, wenn die hervorgerufenen Zustände replizierbar sind. 31.10.2018, 17:46
